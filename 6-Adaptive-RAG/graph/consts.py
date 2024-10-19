@@ -1,0 +1,5 @@
+"""nodes in the GRAPH to avoid repetition"""
+RETRIEVE = "retrieve"
+GRADE_DOCUMENTS = "grade_documents"
+GENERATE = "generate"
+WEBSEARCH = "websearch"
